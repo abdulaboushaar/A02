@@ -37,11 +37,11 @@
   - Click the **branch** picker that shows main.
   - Type a new name like feature/readme-tutorial and press Enter to create and switch to it
 
-  3. Making a Commit
-  - With your new branch selected on GitHub, click a file to edit or click Add file → Create new file.
+  3. Making a **Commit**
+  - With your new **branch** selected on **GitHub**, click a file to edit or click Add file > Create new file.
   - Make your changes in the editor.
-  - In the Commit changes box, write a short message, for example: "Adding Instructions on making a repo".
-  - Click Commit changes. GitHub records your change on this branch.
+  - In the **Commit** changes box, write a short message, for example: "Adding Instructions on making a repo".
+  - Click **Commit** changes. **GitHub** records your change on this **branch**.
     
   ## Connecting GitHub to WebStorm
   - Open WebStorm > Go to File > Settings > Version Control > Git.
@@ -58,16 +58,27 @@
  
   ## Glossary
   **Branch** – A separate line of development in a project, allowing you to work on features independently.
+  
   **Clone** – A copy of a GitHub repository downloaded to your computer.
+  
   **Commit** – A saved snapshot of your project’s files at a certain point in time.
+  
   **Fetch** – A command that downloads new changes from the remote without merging them.
+  
   **Git** – A version control system that tracks file changes and project history.
+  
   **GitHub** – An online platform that hosts Git repositories and enables collaboration.
+  
   **Merge** – The process of combining changes from one branch into another.
+  
   **Merge** Conflict – An issue that happens when Git cannot automatically merge file changes.
+  
   **Push** – Sending your local commits to the remote GitHub repository.
+  
   **Pull** – Getting the latest changes from GitHub and merging them into your local copy.
+  
   **Remote** – The online version of your repository stored on GitHub.
+  
   **Repository** – A project folder tracked by Git that contains files, history, and branches.
 
   
